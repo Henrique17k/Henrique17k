@@ -14,7 +14,7 @@
  <a href = "https://app.rocketseat.com.br/me/fernandopaivaec"><img src="https://img.shields.io/badge/Rocketseat-Blue?style=for-the-badge&logoColor=blue" target="_blank"></a>
 </div>
 
-### Stats
+### Status
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique17k&count_private=true&show_icons=true&theme=dracula" target="_blank"></a> 
